@@ -8,8 +8,8 @@ An intelligent code generation tool powered by OpenAI's language models. Generat
 - 🌐 Multi-language support (Python, JavaScript, TypeScript, Java, etc.)
 - ⚡ Fast and efficient code generation
 - 🔧 Easy-to-use API
-- 📝 Customizable parameters
-- 🧪 Batch code generation
+- 🎛️ Customizable parameters
+- 🧠 Batch code generation
 
 ## Installation
 
